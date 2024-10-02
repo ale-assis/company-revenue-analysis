@@ -1,4 +1,3 @@
-# data-analysis-challenge1
 a simple analysis made from an excel database with data frames and graphical view
 
 Graphic view
